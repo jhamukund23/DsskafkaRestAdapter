@@ -1,0 +1,24 @@
+C:\Projects\DsskafkaRestAdapter\DsskafkaRestAdapter.Application\obj\Debug\net7.0\DsskafkaRestAdapter.Application.csproj.AssemblyReference.cache
+C:\Projects\DsskafkaRestAdapter\DsskafkaRestAdapter.Application\obj\Debug\net7.0\DsskafkaRestAdapter.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\DsskafkaRestAdapter\DsskafkaRestAdapter.Application\obj\Debug\net7.0\DsskafkaRestAdapter.Application.AssemblyInfoInputs.cache
+C:\Projects\DsskafkaRestAdapter\DsskafkaRestAdapter.Application\obj\Debug\net7.0\DsskafkaRestAdapter.Application.AssemblyInfo.cs
+C:\Projects\DsskafkaRestAdapter\DsskafkaRestAdapter.Application\obj\Debug\net7.0\DsskafkaRestAdapter.Application.csproj.CoreCompileInputs.cache
+C:\Projects\DsskafkaRestAdapter\DsskafkaRestAdapter.Application\bin\Debug\net7.0\DsskafkaRestAdapter.Application.deps.json
+C:\Projects\DsskafkaRestAdapter\DsskafkaRestAdapter.Application\bin\Debug\net7.0\DsskafkaRestAdapter.Application.dll
+C:\Projects\DsskafkaRestAdapter\DsskafkaRestAdapter.Application\bin\Debug\net7.0\DsskafkaRestAdapter.Application.pdb
+C:\Projects\DsskafkaRestAdapter\DsskafkaRestAdapter.Application\obj\Debug\net7.0\DsskafkaRestAdapter.Application.dll
+C:\Projects\DsskafkaRestAdapter\DsskafkaRestAdapter.Application\obj\Debug\net7.0\refint\DsskafkaRestAdapter.Application.dll
+C:\Projects\DsskafkaRestAdapter\DsskafkaRestAdapter.Application\obj\Debug\net7.0\DsskafkaRestAdapter.Application.pdb
+C:\Projects\DsskafkaRestAdapter\DsskafkaRestAdapter.Application\obj\Debug\net7.0\ref\DsskafkaRestAdapter.Application.dll
+C:\Users\a895576\OneDrive - Atos\DSS-POC\DsskafkaRestAdapter\DsskafkaRestAdapter.Application\bin\Debug\net7.0\DsskafkaRestAdapter.Application.deps.json
+C:\Users\a895576\OneDrive - Atos\DSS-POC\DsskafkaRestAdapter\DsskafkaRestAdapter.Application\bin\Debug\net7.0\DsskafkaRestAdapter.Application.dll
+C:\Users\a895576\OneDrive - Atos\DSS-POC\DsskafkaRestAdapter\DsskafkaRestAdapter.Application\bin\Debug\net7.0\DsskafkaRestAdapter.Application.pdb
+C:\Users\a895576\OneDrive - Atos\DSS-POC\DsskafkaRestAdapter\DsskafkaRestAdapter.Application\obj\Debug\net7.0\DsskafkaRestAdapter.Application.csproj.AssemblyReference.cache
+C:\Users\a895576\OneDrive - Atos\DSS-POC\DsskafkaRestAdapter\DsskafkaRestAdapter.Application\obj\Debug\net7.0\DsskafkaRestAdapter.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\a895576\OneDrive - Atos\DSS-POC\DsskafkaRestAdapter\DsskafkaRestAdapter.Application\obj\Debug\net7.0\DsskafkaRestAdapter.Application.AssemblyInfoInputs.cache
+C:\Users\a895576\OneDrive - Atos\DSS-POC\DsskafkaRestAdapter\DsskafkaRestAdapter.Application\obj\Debug\net7.0\DsskafkaRestAdapter.Application.AssemblyInfo.cs
+C:\Users\a895576\OneDrive - Atos\DSS-POC\DsskafkaRestAdapter\DsskafkaRestAdapter.Application\obj\Debug\net7.0\DsskafkaRestAdapter.Application.csproj.CoreCompileInputs.cache
+C:\Users\a895576\OneDrive - Atos\DSS-POC\DsskafkaRestAdapter\DsskafkaRestAdapter.Application\obj\Debug\net7.0\DsskafkaRestAdapter.Application.dll
+C:\Users\a895576\OneDrive - Atos\DSS-POC\DsskafkaRestAdapter\DsskafkaRestAdapter.Application\obj\Debug\net7.0\refint\DsskafkaRestAdapter.Application.dll
+C:\Users\a895576\OneDrive - Atos\DSS-POC\DsskafkaRestAdapter\DsskafkaRestAdapter.Application\obj\Debug\net7.0\DsskafkaRestAdapter.Application.pdb
+C:\Users\a895576\OneDrive - Atos\DSS-POC\DsskafkaRestAdapter\DsskafkaRestAdapter.Application\obj\Debug\net7.0\ref\DsskafkaRestAdapter.Application.dll

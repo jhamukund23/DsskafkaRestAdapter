@@ -1,0 +1,148 @@
+C:\Projects\DsskafkaRestAdapter\DsskafkaRestAdapter\bin\Debug\net7.0\DsskafkaRestAdapter.exe
+C:\Projects\DsskafkaRestAdapter\DsskafkaRestAdapter\bin\Debug\net7.0\DsskafkaRestAdapter.deps.json
+C:\Projects\DsskafkaRestAdapter\DsskafkaRestAdapter\bin\Debug\net7.0\DsskafkaRestAdapter.runtimeconfig.json
+C:\Projects\DsskafkaRestAdapter\DsskafkaRestAdapter\bin\Debug\net7.0\DsskafkaRestAdapter.dll
+C:\Projects\DsskafkaRestAdapter\DsskafkaRestAdapter\bin\Debug\net7.0\DsskafkaRestAdapter.pdb
+C:\Projects\DsskafkaRestAdapter\DsskafkaRestAdapter\bin\Debug\net7.0\Confluent.Kafka.dll
+C:\Projects\DsskafkaRestAdapter\DsskafkaRestAdapter\bin\Debug\net7.0\runtimes\linux-arm64\native\librdkafka.so
+C:\Projects\DsskafkaRestAdapter\DsskafkaRestAdapter\bin\Debug\net7.0\runtimes\linux-x64\native\alpine-librdkafka.so
+C:\Projects\DsskafkaRestAdapter\DsskafkaRestAdapter\bin\Debug\net7.0\runtimes\linux-x64\native\centos6-librdkafka.so
+C:\Projects\DsskafkaRestAdapter\DsskafkaRestAdapter\bin\Debug\net7.0\runtimes\linux-x64\native\centos7-librdkafka.so
+C:\Projects\DsskafkaRestAdapter\DsskafkaRestAdapter\bin\Debug\net7.0\runtimes\linux-x64\native\librdkafka.so
+C:\Projects\DsskafkaRestAdapter\DsskafkaRestAdapter\bin\Debug\net7.0\runtimes\osx-arm64\native\librdkafka.dylib
+C:\Projects\DsskafkaRestAdapter\DsskafkaRestAdapter\bin\Debug\net7.0\runtimes\osx-x64\native\librdkafka.dylib
+C:\Projects\DsskafkaRestAdapter\DsskafkaRestAdapter\bin\Debug\net7.0\runtimes\win-x64\native\libcrypto-3-x64.dll
+C:\Projects\DsskafkaRestAdapter\DsskafkaRestAdapter\bin\Debug\net7.0\runtimes\win-x64\native\libcurl.dll
+C:\Projects\DsskafkaRestAdapter\DsskafkaRestAdapter\bin\Debug\net7.0\runtimes\win-x64\native\librdkafka.dll
+C:\Projects\DsskafkaRestAdapter\DsskafkaRestAdapter\bin\Debug\net7.0\runtimes\win-x64\native\librdkafkacpp.dll
+C:\Projects\DsskafkaRestAdapter\DsskafkaRestAdapter\bin\Debug\net7.0\runtimes\win-x64\native\libssl-3-x64.dll
+C:\Projects\DsskafkaRestAdapter\DsskafkaRestAdapter\bin\Debug\net7.0\runtimes\win-x64\native\msvcp140.dll
+C:\Projects\DsskafkaRestAdapter\DsskafkaRestAdapter\bin\Debug\net7.0\runtimes\win-x64\native\vcruntime140.dll
+C:\Projects\DsskafkaRestAdapter\DsskafkaRestAdapter\bin\Debug\net7.0\runtimes\win-x64\native\zlib1.dll
+C:\Projects\DsskafkaRestAdapter\DsskafkaRestAdapter\bin\Debug\net7.0\runtimes\win-x64\native\zstd.dll
+C:\Projects\DsskafkaRestAdapter\DsskafkaRestAdapter\bin\Debug\net7.0\runtimes\win-x86\native\libcrypto-3.dll
+C:\Projects\DsskafkaRestAdapter\DsskafkaRestAdapter\bin\Debug\net7.0\runtimes\win-x86\native\libcurl.dll
+C:\Projects\DsskafkaRestAdapter\DsskafkaRestAdapter\bin\Debug\net7.0\runtimes\win-x86\native\librdkafka.dll
+C:\Projects\DsskafkaRestAdapter\DsskafkaRestAdapter\bin\Debug\net7.0\runtimes\win-x86\native\librdkafkacpp.dll
+C:\Projects\DsskafkaRestAdapter\DsskafkaRestAdapter\bin\Debug\net7.0\runtimes\win-x86\native\libssl-3.dll
+C:\Projects\DsskafkaRestAdapter\DsskafkaRestAdapter\bin\Debug\net7.0\runtimes\win-x86\native\msvcp140.dll
+C:\Projects\DsskafkaRestAdapter\DsskafkaRestAdapter\bin\Debug\net7.0\runtimes\win-x86\native\vcruntime140.dll
+C:\Projects\DsskafkaRestAdapter\DsskafkaRestAdapter\bin\Debug\net7.0\runtimes\win-x86\native\zlib1.dll
+C:\Projects\DsskafkaRestAdapter\DsskafkaRestAdapter\bin\Debug\net7.0\runtimes\win-x86\native\zstd.dll
+C:\Projects\DsskafkaRestAdapter\DsskafkaRestAdapter\obj\Debug\net7.0\DsskafkaRestAdapter.csproj.AssemblyReference.cache
+C:\Projects\DsskafkaRestAdapter\DsskafkaRestAdapter\obj\Debug\net7.0\DsskafkaRestAdapter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\DsskafkaRestAdapter\DsskafkaRestAdapter\obj\Debug\net7.0\DsskafkaRestAdapter.AssemblyInfoInputs.cache
+C:\Projects\DsskafkaRestAdapter\DsskafkaRestAdapter\obj\Debug\net7.0\DsskafkaRestAdapter.AssemblyInfo.cs
+C:\Projects\DsskafkaRestAdapter\DsskafkaRestAdapter\obj\Debug\net7.0\DsskafkaRestAdapter.csproj.CoreCompileInputs.cache
+C:\Projects\DsskafkaRestAdapter\DsskafkaRestAdapter\obj\Debug\net7.0\DsskafkaRestAdapter.csproj.CopyComplete
+C:\Projects\DsskafkaRestAdapter\DsskafkaRestAdapter\obj\Debug\net7.0\DsskafkaRestAdapter.dll
+C:\Projects\DsskafkaRestAdapter\DsskafkaRestAdapter\obj\Debug\net7.0\refint\DsskafkaRestAdapter.dll
+C:\Projects\DsskafkaRestAdapter\DsskafkaRestAdapter\obj\Debug\net7.0\DsskafkaRestAdapter.pdb
+C:\Projects\DsskafkaRestAdapter\DsskafkaRestAdapter\obj\Debug\net7.0\DsskafkaRestAdapter.genruntimeconfig.cache
+C:\Projects\DsskafkaRestAdapter\DsskafkaRestAdapter\obj\Debug\net7.0\ref\DsskafkaRestAdapter.dll
+C:\Projects\DsskafkaRestAdapter\DsskafkaRestAdapter\bin\Debug\net7.0\Microsoft.Extensions.Configuration.dll
+C:\Projects\DsskafkaRestAdapter\DsskafkaRestAdapter\bin\Debug\net7.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Projects\DsskafkaRestAdapter\DsskafkaRestAdapter\bin\Debug\net7.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\Projects\DsskafkaRestAdapter\DsskafkaRestAdapter\bin\Debug\net7.0\Microsoft.Extensions.Configuration.CommandLine.dll
+C:\Projects\DsskafkaRestAdapter\DsskafkaRestAdapter\bin\Debug\net7.0\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+C:\Projects\DsskafkaRestAdapter\DsskafkaRestAdapter\bin\Debug\net7.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Projects\DsskafkaRestAdapter\DsskafkaRestAdapter\bin\Debug\net7.0\Microsoft.Extensions.Configuration.Json.dll
+C:\Projects\DsskafkaRestAdapter\DsskafkaRestAdapter\bin\Debug\net7.0\Microsoft.Extensions.Configuration.UserSecrets.dll
+C:\Projects\DsskafkaRestAdapter\DsskafkaRestAdapter\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Projects\DsskafkaRestAdapter\DsskafkaRestAdapter\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Projects\DsskafkaRestAdapter\DsskafkaRestAdapter\bin\Debug\net7.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Projects\DsskafkaRestAdapter\DsskafkaRestAdapter\bin\Debug\net7.0\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Projects\DsskafkaRestAdapter\DsskafkaRestAdapter\bin\Debug\net7.0\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Projects\DsskafkaRestAdapter\DsskafkaRestAdapter\bin\Debug\net7.0\Microsoft.Extensions.Hosting.dll
+C:\Projects\DsskafkaRestAdapter\DsskafkaRestAdapter\bin\Debug\net7.0\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Projects\DsskafkaRestAdapter\DsskafkaRestAdapter\bin\Debug\net7.0\Microsoft.Extensions.Logging.dll
+C:\Projects\DsskafkaRestAdapter\DsskafkaRestAdapter\bin\Debug\net7.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Projects\DsskafkaRestAdapter\DsskafkaRestAdapter\bin\Debug\net7.0\Microsoft.Extensions.Logging.Configuration.dll
+C:\Projects\DsskafkaRestAdapter\DsskafkaRestAdapter\bin\Debug\net7.0\Microsoft.Extensions.Logging.Console.dll
+C:\Projects\DsskafkaRestAdapter\DsskafkaRestAdapter\bin\Debug\net7.0\Microsoft.Extensions.Logging.Debug.dll
+C:\Projects\DsskafkaRestAdapter\DsskafkaRestAdapter\bin\Debug\net7.0\Microsoft.Extensions.Logging.EventLog.dll
+C:\Projects\DsskafkaRestAdapter\DsskafkaRestAdapter\bin\Debug\net7.0\Microsoft.Extensions.Logging.EventSource.dll
+C:\Projects\DsskafkaRestAdapter\DsskafkaRestAdapter\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+C:\Projects\DsskafkaRestAdapter\DsskafkaRestAdapter\bin\Debug\net7.0\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Projects\DsskafkaRestAdapter\DsskafkaRestAdapter\bin\Debug\net7.0\Microsoft.Extensions.Primitives.dll
+C:\Projects\DsskafkaRestAdapter\DsskafkaRestAdapter\bin\Debug\net7.0\System.Diagnostics.DiagnosticSource.dll
+C:\Projects\DsskafkaRestAdapter\DsskafkaRestAdapter\bin\Debug\net7.0\System.Diagnostics.EventLog.dll
+C:\Projects\DsskafkaRestAdapter\DsskafkaRestAdapter\bin\Debug\net7.0\runtimes\win\lib\net7.0\System.Diagnostics.EventLog.Messages.dll
+C:\Projects\DsskafkaRestAdapter\DsskafkaRestAdapter\bin\Debug\net7.0\runtimes\win\lib\net7.0\System.Diagnostics.EventLog.dll
+C:\Projects\DsskafkaRestAdapter\DsskafkaRestAdapter\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Projects\DsskafkaRestAdapter\DsskafkaRestAdapter\bin\Debug\net7.0\DsskafkaRestAdapter.Application.dll
+C:\Projects\DsskafkaRestAdapter\DsskafkaRestAdapter\bin\Debug\net7.0\DsskafkaRestAdapter.Application.pdb
+C:\Users\a895576\OneDrive - Atos\DSS-POC\DsskafkaRestAdapter\DsskafkaRestAdapter\obj\Debug\net7.0\DsskafkaRestAdapter.csproj.AssemblyReference.cache
+C:\Users\a895576\OneDrive - Atos\DSS-POC\DsskafkaRestAdapter\DsskafkaRestAdapter\obj\Debug\net7.0\DsskafkaRestAdapter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\a895576\OneDrive - Atos\DSS-POC\DsskafkaRestAdapter\DsskafkaRestAdapter\obj\Debug\net7.0\DsskafkaRestAdapter.AssemblyInfoInputs.cache
+C:\Users\a895576\OneDrive - Atos\DSS-POC\DsskafkaRestAdapter\DsskafkaRestAdapter\obj\Debug\net7.0\DsskafkaRestAdapter.AssemblyInfo.cs
+C:\Users\a895576\OneDrive - Atos\DSS-POC\DsskafkaRestAdapter\DsskafkaRestAdapter\obj\Debug\net7.0\DsskafkaRestAdapter.csproj.CoreCompileInputs.cache
+C:\Users\a895576\OneDrive - Atos\DSS-POC\DsskafkaRestAdapter\DsskafkaRestAdapter\obj\Debug\net7.0\DsskafkaRestAdapter.dll
+C:\Users\a895576\OneDrive - Atos\DSS-POC\DsskafkaRestAdapter\DsskafkaRestAdapter\obj\Debug\net7.0\refint\DsskafkaRestAdapter.dll
+C:\Users\a895576\OneDrive - Atos\DSS-POC\DsskafkaRestAdapter\DsskafkaRestAdapter\obj\Debug\net7.0\DsskafkaRestAdapter.pdb
+C:\Users\a895576\OneDrive - Atos\DSS-POC\DsskafkaRestAdapter\DsskafkaRestAdapter\bin\Debug\net7.0\DsskafkaRestAdapter.exe
+C:\Users\a895576\OneDrive - Atos\DSS-POC\DsskafkaRestAdapter\DsskafkaRestAdapter\bin\Debug\net7.0\DsskafkaRestAdapter.deps.json
+C:\Users\a895576\OneDrive - Atos\DSS-POC\DsskafkaRestAdapter\DsskafkaRestAdapter\bin\Debug\net7.0\DsskafkaRestAdapter.runtimeconfig.json
+C:\Users\a895576\OneDrive - Atos\DSS-POC\DsskafkaRestAdapter\DsskafkaRestAdapter\bin\Debug\net7.0\DsskafkaRestAdapter.dll
+C:\Users\a895576\OneDrive - Atos\DSS-POC\DsskafkaRestAdapter\DsskafkaRestAdapter\bin\Debug\net7.0\DsskafkaRestAdapter.pdb
+C:\Users\a895576\OneDrive - Atos\DSS-POC\DsskafkaRestAdapter\DsskafkaRestAdapter\bin\Debug\net7.0\Confluent.Kafka.dll
+C:\Users\a895576\OneDrive - Atos\DSS-POC\DsskafkaRestAdapter\DsskafkaRestAdapter\bin\Debug\net7.0\Microsoft.Extensions.Configuration.dll
+C:\Users\a895576\OneDrive - Atos\DSS-POC\DsskafkaRestAdapter\DsskafkaRestAdapter\bin\Debug\net7.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\a895576\OneDrive - Atos\DSS-POC\DsskafkaRestAdapter\DsskafkaRestAdapter\bin\Debug\net7.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\a895576\OneDrive - Atos\DSS-POC\DsskafkaRestAdapter\DsskafkaRestAdapter\bin\Debug\net7.0\Microsoft.Extensions.Configuration.CommandLine.dll
+C:\Users\a895576\OneDrive - Atos\DSS-POC\DsskafkaRestAdapter\DsskafkaRestAdapter\bin\Debug\net7.0\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+C:\Users\a895576\OneDrive - Atos\DSS-POC\DsskafkaRestAdapter\DsskafkaRestAdapter\bin\Debug\net7.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\a895576\OneDrive - Atos\DSS-POC\DsskafkaRestAdapter\DsskafkaRestAdapter\bin\Debug\net7.0\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\a895576\OneDrive - Atos\DSS-POC\DsskafkaRestAdapter\DsskafkaRestAdapter\bin\Debug\net7.0\Microsoft.Extensions.Configuration.UserSecrets.dll
+C:\Users\a895576\OneDrive - Atos\DSS-POC\DsskafkaRestAdapter\DsskafkaRestAdapter\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\a895576\OneDrive - Atos\DSS-POC\DsskafkaRestAdapter\DsskafkaRestAdapter\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\a895576\OneDrive - Atos\DSS-POC\DsskafkaRestAdapter\DsskafkaRestAdapter\bin\Debug\net7.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\a895576\OneDrive - Atos\DSS-POC\DsskafkaRestAdapter\DsskafkaRestAdapter\bin\Debug\net7.0\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\a895576\OneDrive - Atos\DSS-POC\DsskafkaRestAdapter\DsskafkaRestAdapter\bin\Debug\net7.0\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\a895576\OneDrive - Atos\DSS-POC\DsskafkaRestAdapter\DsskafkaRestAdapter\bin\Debug\net7.0\Microsoft.Extensions.Hosting.dll
+C:\Users\a895576\OneDrive - Atos\DSS-POC\DsskafkaRestAdapter\DsskafkaRestAdapter\bin\Debug\net7.0\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\a895576\OneDrive - Atos\DSS-POC\DsskafkaRestAdapter\DsskafkaRestAdapter\bin\Debug\net7.0\Microsoft.Extensions.Logging.dll
+C:\Users\a895576\OneDrive - Atos\DSS-POC\DsskafkaRestAdapter\DsskafkaRestAdapter\bin\Debug\net7.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\a895576\OneDrive - Atos\DSS-POC\DsskafkaRestAdapter\DsskafkaRestAdapter\bin\Debug\net7.0\Microsoft.Extensions.Logging.Configuration.dll
+C:\Users\a895576\OneDrive - Atos\DSS-POC\DsskafkaRestAdapter\DsskafkaRestAdapter\bin\Debug\net7.0\Microsoft.Extensions.Logging.Console.dll
+C:\Users\a895576\OneDrive - Atos\DSS-POC\DsskafkaRestAdapter\DsskafkaRestAdapter\bin\Debug\net7.0\Microsoft.Extensions.Logging.Debug.dll
+C:\Users\a895576\OneDrive - Atos\DSS-POC\DsskafkaRestAdapter\DsskafkaRestAdapter\bin\Debug\net7.0\Microsoft.Extensions.Logging.EventLog.dll
+C:\Users\a895576\OneDrive - Atos\DSS-POC\DsskafkaRestAdapter\DsskafkaRestAdapter\bin\Debug\net7.0\Microsoft.Extensions.Logging.EventSource.dll
+C:\Users\a895576\OneDrive - Atos\DSS-POC\DsskafkaRestAdapter\DsskafkaRestAdapter\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+C:\Users\a895576\OneDrive - Atos\DSS-POC\DsskafkaRestAdapter\DsskafkaRestAdapter\bin\Debug\net7.0\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Users\a895576\OneDrive - Atos\DSS-POC\DsskafkaRestAdapter\DsskafkaRestAdapter\bin\Debug\net7.0\Microsoft.Extensions.Primitives.dll
+C:\Users\a895576\OneDrive - Atos\DSS-POC\DsskafkaRestAdapter\DsskafkaRestAdapter\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\a895576\OneDrive - Atos\DSS-POC\DsskafkaRestAdapter\DsskafkaRestAdapter\bin\Debug\net7.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\a895576\OneDrive - Atos\DSS-POC\DsskafkaRestAdapter\DsskafkaRestAdapter\bin\Debug\net7.0\System.Diagnostics.EventLog.dll
+C:\Users\a895576\OneDrive - Atos\DSS-POC\DsskafkaRestAdapter\DsskafkaRestAdapter\bin\Debug\net7.0\runtimes\linux-arm64\native\librdkafka.so
+C:\Users\a895576\OneDrive - Atos\DSS-POC\DsskafkaRestAdapter\DsskafkaRestAdapter\bin\Debug\net7.0\runtimes\linux-x64\native\alpine-librdkafka.so
+C:\Users\a895576\OneDrive - Atos\DSS-POC\DsskafkaRestAdapter\DsskafkaRestAdapter\bin\Debug\net7.0\runtimes\linux-x64\native\centos6-librdkafka.so
+C:\Users\a895576\OneDrive - Atos\DSS-POC\DsskafkaRestAdapter\DsskafkaRestAdapter\bin\Debug\net7.0\runtimes\linux-x64\native\centos7-librdkafka.so
+C:\Users\a895576\OneDrive - Atos\DSS-POC\DsskafkaRestAdapter\DsskafkaRestAdapter\bin\Debug\net7.0\runtimes\linux-x64\native\librdkafka.so
+C:\Users\a895576\OneDrive - Atos\DSS-POC\DsskafkaRestAdapter\DsskafkaRestAdapter\bin\Debug\net7.0\runtimes\osx-arm64\native\librdkafka.dylib
+C:\Users\a895576\OneDrive - Atos\DSS-POC\DsskafkaRestAdapter\DsskafkaRestAdapter\bin\Debug\net7.0\runtimes\osx-x64\native\librdkafka.dylib
+C:\Users\a895576\OneDrive - Atos\DSS-POC\DsskafkaRestAdapter\DsskafkaRestAdapter\bin\Debug\net7.0\runtimes\win-x64\native\libcrypto-3-x64.dll
+C:\Users\a895576\OneDrive - Atos\DSS-POC\DsskafkaRestAdapter\DsskafkaRestAdapter\bin\Debug\net7.0\runtimes\win-x64\native\libcurl.dll
+C:\Users\a895576\OneDrive - Atos\DSS-POC\DsskafkaRestAdapter\DsskafkaRestAdapter\bin\Debug\net7.0\runtimes\win-x64\native\librdkafka.dll
+C:\Users\a895576\OneDrive - Atos\DSS-POC\DsskafkaRestAdapter\DsskafkaRestAdapter\bin\Debug\net7.0\runtimes\win-x64\native\librdkafkacpp.dll
+C:\Users\a895576\OneDrive - Atos\DSS-POC\DsskafkaRestAdapter\DsskafkaRestAdapter\bin\Debug\net7.0\runtimes\win-x64\native\libssl-3-x64.dll
+C:\Users\a895576\OneDrive - Atos\DSS-POC\DsskafkaRestAdapter\DsskafkaRestAdapter\bin\Debug\net7.0\runtimes\win-x64\native\msvcp140.dll
+C:\Users\a895576\OneDrive - Atos\DSS-POC\DsskafkaRestAdapter\DsskafkaRestAdapter\bin\Debug\net7.0\runtimes\win-x64\native\vcruntime140.dll
+C:\Users\a895576\OneDrive - Atos\DSS-POC\DsskafkaRestAdapter\DsskafkaRestAdapter\bin\Debug\net7.0\runtimes\win-x64\native\zlib1.dll
+C:\Users\a895576\OneDrive - Atos\DSS-POC\DsskafkaRestAdapter\DsskafkaRestAdapter\bin\Debug\net7.0\runtimes\win-x64\native\zstd.dll
+C:\Users\a895576\OneDrive - Atos\DSS-POC\DsskafkaRestAdapter\DsskafkaRestAdapter\bin\Debug\net7.0\runtimes\win-x86\native\libcrypto-3.dll
+C:\Users\a895576\OneDrive - Atos\DSS-POC\DsskafkaRestAdapter\DsskafkaRestAdapter\bin\Debug\net7.0\runtimes\win-x86\native\libcurl.dll
+C:\Users\a895576\OneDrive - Atos\DSS-POC\DsskafkaRestAdapter\DsskafkaRestAdapter\bin\Debug\net7.0\runtimes\win-x86\native\librdkafka.dll
+C:\Users\a895576\OneDrive - Atos\DSS-POC\DsskafkaRestAdapter\DsskafkaRestAdapter\bin\Debug\net7.0\runtimes\win-x86\native\librdkafkacpp.dll
+C:\Users\a895576\OneDrive - Atos\DSS-POC\DsskafkaRestAdapter\DsskafkaRestAdapter\bin\Debug\net7.0\runtimes\win-x86\native\libssl-3.dll
+C:\Users\a895576\OneDrive - Atos\DSS-POC\DsskafkaRestAdapter\DsskafkaRestAdapter\bin\Debug\net7.0\runtimes\win-x86\native\msvcp140.dll
+C:\Users\a895576\OneDrive - Atos\DSS-POC\DsskafkaRestAdapter\DsskafkaRestAdapter\bin\Debug\net7.0\runtimes\win-x86\native\vcruntime140.dll
+C:\Users\a895576\OneDrive - Atos\DSS-POC\DsskafkaRestAdapter\DsskafkaRestAdapter\bin\Debug\net7.0\runtimes\win-x86\native\zlib1.dll
+C:\Users\a895576\OneDrive - Atos\DSS-POC\DsskafkaRestAdapter\DsskafkaRestAdapter\bin\Debug\net7.0\runtimes\win-x86\native\zstd.dll
+C:\Users\a895576\OneDrive - Atos\DSS-POC\DsskafkaRestAdapter\DsskafkaRestAdapter\bin\Debug\net7.0\runtimes\win\lib\net7.0\System.Diagnostics.EventLog.Messages.dll
+C:\Users\a895576\OneDrive - Atos\DSS-POC\DsskafkaRestAdapter\DsskafkaRestAdapter\bin\Debug\net7.0\runtimes\win\lib\net7.0\System.Diagnostics.EventLog.dll
+C:\Users\a895576\OneDrive - Atos\DSS-POC\DsskafkaRestAdapter\DsskafkaRestAdapter\bin\Debug\net7.0\DsskafkaRestAdapter.Application.dll
+C:\Users\a895576\OneDrive - Atos\DSS-POC\DsskafkaRestAdapter\DsskafkaRestAdapter\bin\Debug\net7.0\DsskafkaRestAdapter.Application.pdb
+C:\Users\a895576\OneDrive - Atos\DSS-POC\DsskafkaRestAdapter\DsskafkaRestAdapter\obj\Debug\net7.0\DsskafkaRestAdapter.csproj.CopyComplete
+C:\Users\a895576\OneDrive - Atos\DSS-POC\DsskafkaRestAdapter\DsskafkaRestAdapter\obj\Debug\net7.0\DsskafkaRestAdapter.genruntimeconfig.cache
+C:\Users\a895576\OneDrive - Atos\DSS-POC\DsskafkaRestAdapter\DsskafkaRestAdapter\obj\Debug\net7.0\ref\DsskafkaRestAdapter.dll
